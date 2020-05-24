@@ -1,0 +1,3 @@
+messages:
+  not-premium-player: "&c正版验证失败：您不是正版玩家，无法加入服务器"
+  mojang-api-down: "&cMojang API目前离线，无法验证您的身份，请稍后再试"

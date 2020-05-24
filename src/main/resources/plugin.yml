@@ -1,0 +1,5 @@
+name: OnlineModeVerify
+version: ${project.version}
+main: com.mcsunnyside.onlinemodeverify.OnlineModeVerify
+api-version: 1.13
+description: 检测进入的玩家是否是正版UUID且是否存在于Mojang官网上
